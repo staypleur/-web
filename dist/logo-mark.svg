@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -10 100 122" fill="none"><title>함 — 집 지붕과 웃는 얼굴로 표현한 글자</title><g stroke="#B42C68" stroke-linecap="round" stroke-linejoin="round">
-  <!-- 지붕과 굴뚝이 ㅎ의 윗획을 이룹니다. -->
-  <path d="M12 33 42 10 72 33 66 40 42 22 18 40Z" fill="#FBE2ED" stroke-width="4"/>
-  <path d="M58 20V8h8v18" fill="#FBE2ED" stroke-width="3.5"/>
-  <path d="M62 2q-3-4 0-7" stroke-width="2.5"/>
-  <!-- ㅎ의 둥근 부분은 웃는 얼굴입니다. -->
-  <circle cx="42" cy="52" r="19" fill="#FFF5F9" stroke-width="4"/>
-  <path d="M33 47h.1m17 0h.1" stroke="#55243A" stroke-width="3.8"/>
-  <path d="M33 54q9 12 18 0" stroke="#55243A" stroke-width="3"/>
-  <path d="M28 53h3m22 0h3" stroke="#EF9ABD" stroke-width="3"/>
-  <!-- 오른쪽 ㅏ와 아래 ㅁ을 남겨 함으로 읽히도록 구성합니다. -->
-  <path d="M81 29v37m0-19h11" stroke-width="5"/>
-  <path d="M28 80h40v25H28Z" fill="#FBE2ED" stroke-width="4.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 106" fill="none"><title>함 — 웃는 집을 담은 글자</title><g stroke="#B42C68" stroke-linecap="round" stroke-linejoin="round" fill="none">
+  <path d="M8 24 31 9 54 24" stroke-width="7"/>
+  <path d="M13 32h36" stroke-width="6"/>
+  <circle cx="31" cy="51" r="14" stroke-width="6"/>
+  <path d="M26 47h.1m10 0h.1" stroke-width="2.7"/>
+  <path d="M25 54q6 7 12 0" stroke-width="2.7"/>
+  <path d="M68 25v39m0-20h12" stroke-width="7"/>
+  <rect x="20" y="77" width="48" height="22" rx="3" stroke-width="7"/>
 </g></svg>
