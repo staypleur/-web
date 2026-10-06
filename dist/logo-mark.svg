@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 106" fill="none"><title>함 — 웃는 집을 담은 글자</title><g stroke="#B42C68" stroke-linecap="round" stroke-linejoin="round" fill="none">
   <path d="M8 24 31 9 54 24" stroke-width="7"/>
   <path d="M43 17V6h8v17" stroke-width="5"/>
-  <circle cx="31" cy="51" r="14" stroke-width="6"/>
-  <path d="M26 47h.1m10 0h.1" stroke-width="2.7"/>
-  <path d="M25 54q6 7 12 0" stroke-width="2.7"/>
+  <circle cx="31" cy="46" r="18" stroke-width="6"/>
+  <path d="M25 42h.1m12 0h.1" stroke-width="2.7"/>
+  <path d="M23 50q8 9 16 0" stroke-width="2.7"/>
   <path d="M68 25v39m0-20h12" stroke-width="7"/>
   <rect x="20" y="77" width="48" height="22" rx="3" stroke-width="7"/>
 </g></svg>

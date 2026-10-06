@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" fill="none"><title>다함재가복지센터 — 집으로 찾아가는 따뜻한 돌봄</title><g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" fill="#B42C68"><text x="18" y="74" font-size="45">다</text><text x="121" y="74" font-size="45" letter-spacing="-1.5">재가</text></g><g transform="translate(66 13) scale(.58)"><g stroke="#B42C68" stroke-linecap="round" stroke-linejoin="round" fill="none">
   <path d="M8 24 31 9 54 24" stroke-width="7"/>
   <path d="M43 17V6h8v17" stroke-width="5"/>
-  <circle cx="31" cy="51" r="14" stroke-width="6"/>
-  <path d="M26 47h.1m10 0h.1" stroke-width="2.7"/>
-  <path d="M25 54q6 7 12 0" stroke-width="2.7"/>
+  <circle cx="31" cy="46" r="18" stroke-width="6"/>
+  <path d="M25 42h.1m12 0h.1" stroke-width="2.7"/>
+  <path d="M23 50q8 9 16 0" stroke-width="2.7"/>
   <path d="M68 25v39m0-20h12" stroke-width="7"/>
   <rect x="20" y="77" width="48" height="22" rx="3" stroke-width="7"/>
 </g></g><text x="217" y="74" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="36" font-weight="600" letter-spacing="-1.8" fill="#51434A">복지센터</text><text x="20" y="105" font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-size="14" letter-spacing="1.4" fill="#786B72">집으로 찾아가는 따뜻한 돌봄</text></svg>
