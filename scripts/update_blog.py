@@ -65,7 +65,8 @@ def refresh():
     previous = json.loads(target.read_text(encoding='utf-8')) if target.exists() else {}
     updated_at = previous.get('updatedAt') if previous.get('posts') == entries else None
     updated_at = updated_at or datetime.now(timezone.utc).isoformat(timespec='seconds')
-    payload = json.dumps({'source': FEED, 'updatedAt': updated_at, 'posts': entries}, ensure_ascii=False, indent=2) + '\n'
+    checked_month = datetime.now(timezone.utc).strftime('%Y-%m')
+    payload = json.dumps({'source': FEED, 'updatedAt': updated_at, 'checkedMonth': checked_month, 'posts': entries}, ensure_ascii=False, indent=2) + '\n'
     if not target.exists() or target.read_text(encoding='utf-8') != payload:
         temporary = target.with_suffix('.tmp')
         temporary.write_text(payload, encoding='utf-8')
