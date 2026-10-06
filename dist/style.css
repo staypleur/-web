@@ -41,3 +41,7 @@ html{scroll-padding-top:142px}
 @media(hover:none){.news-grid .news-background{opacity:.17;transform:none}.news-grid a:active .news-background{opacity:.3}.news-grid a:hover{transform:none}}
 @media(max-width:720px){.news-grid a{min-height:245px;padding:26px}.news-grid h3{margin:20px 0 26px}}
 @media(prefers-reduced-motion:reduce){.news-grid a,.news-grid .news-background,.news-grid a>span{transition:none;transform:none}}
+/* PC에서 더 잘 보이는 로고와 메뉴 */
+@media(min-width:1101px){html{scroll-padding-top:145px}.header{min-height:124px;gap:24px}.header .brand-symbol{width:88px;height:88px}.header .brand-wordmark strong{font-size:36px;letter-spacing:-1.5px}.header .brand-descriptor{font-size:27px}.header .brand-wordmark small{font-size:13px;margin-top:5px}.header nav{font-size:19px;gap:25px}.header .nav-contact{padding:10px 17px}}
+@media(min-width:721px) and (max-width:1100px){html{scroll-padding-top:180px}.header{flex-wrap:wrap;min-height:155px;padding-top:12px;gap:3px}.header .brand-symbol{width:76px;height:76px}.header .brand-wordmark strong{font-size:32px}.header .brand-descriptor{font-size:24px}.header .brand-wordmark small{font-size:12px}.header nav{width:100%;flex-basis:100%;font-size:17px;gap:0;justify-content:space-between;padding-bottom:12px}.header nav a{padding:8px 10px}.header .nav-contact{padding:8px 12px}}
+.news-grid h3{overflow-wrap:anywhere}
