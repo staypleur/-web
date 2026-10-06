@@ -1,6 +1,6 @@
 # 다함재가복지센터 웹사이트
 
-경기도 화성시 다함재가복지센터의 핑크색 브랜드 홈페이지입니다. HTML, CSS, JavaScript만으로 동작합니다.
+경기도 화성시 다함재가복지센터의 연두색 브랜드 홈페이지입니다. HTML, CSS, JavaScript만으로 동작합니다.
 
 ## 실행
 
@@ -9,7 +9,7 @@
 ## 구성
 
 - `dist/index.html`: 센터 소개, 서비스, 이용 절차, FAQ, 블로그 소식, 상담·위치
-- `dist/style.css`: 핑크 브랜드 및 모바일 반응형 스타일
+- `dist/style.css`: 연두 브랜드 및 모바일 반응형 스타일
 - `dist/script.js`: 모바일 메뉴 동작
 - `dist/care.png`: AI로 제작한 설명용 돌봄 이미지. 실제 센터 사진이 아닙니다.
 - `docs/PROGRESS.md`: 진행 상황 및 남은 작업
