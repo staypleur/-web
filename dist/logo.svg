@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 120" fill="none"><title>다함재가복지센터 — 집으로 찾아가는 따뜻한 돌봄</title><g font-family="Noto Sans KR, Malgun Gothic, sans-serif" font-weight="700" fill="#B42C68"><text x="18" y="74" font-size="45">다</text><text x="121" y="74" font-size="45" letter-spacing="-1.5">재가</text></g><g transform="translate(66 13) scale(.58)"><g stroke="#B42C68" stroke-linecap="round" stroke-linejoin="round" fill="none">
   <path d="M8 24 31 9 54 24" stroke-width="7"/>
-  <path d="M13 32h36" stroke-width="6"/>
+  <path d="M43 17V6h8v17" stroke-width="5"/>
   <circle cx="31" cy="51" r="14" stroke-width="6"/>
   <path d="M26 47h.1m10 0h.1" stroke-width="2.7"/>
   <path d="M25 54q6 7 12 0" stroke-width="2.7"/>
