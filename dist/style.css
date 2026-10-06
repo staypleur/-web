@@ -30,3 +30,14 @@ html{scroll-padding-top:142px}
 .header nav a:hover{background:var(--light)}
 }
 @media(max-width:360px){.header nav{font-size:11px}.header nav a{letter-spacing:-.7px}}
+/* 블로그 대표 이미지가 은은하게 나타나는 소식 카드 */
+.news-grid a{position:relative;isolation:isolate;overflow:hidden;min-height:280px;display:flex;flex-direction:column;justify-content:space-between;background:#fafcf4;transition:border-color .35s,box-shadow .35s,transform .35s}
+.news-grid .news-background{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:-2;opacity:0;transform:scale(1.06);transition:opacity .5s ease,transform .7s ease;pointer-events:none}
+.news-grid a::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,#fafcf430,#fafcf4b3);pointer-events:none}
+.news-grid a>small,.news-grid a>h3,.news-grid a>span{position:relative}.news-grid h3{line-height:1.65;margin:24px 0 32px}.news-grid a>span{align-self:flex-start;transition:transform .35s}
+.news-grid a:hover,.news-grid a:focus-visible{border-color:#a2bf70;box-shadow:0 12px 28px #30442212;transform:translateY(-4px)}
+.news-grid a:hover .news-background,.news-grid a:focus-visible .news-background{opacity:.3;transform:scale(1)}
+.news-grid a:hover>span,.news-grid a:focus-visible>span{transform:translateX(4px)}
+@media(hover:none){.news-grid .news-background{opacity:.17;transform:none}.news-grid a:active .news-background{opacity:.3}.news-grid a:hover{transform:none}}
+@media(max-width:720px){.news-grid a{min-height:245px;padding:26px}.news-grid h3{margin:20px 0 26px}}
+@media(prefers-reduced-motion:reduce){.news-grid a,.news-grid .news-background,.news-grid a>span{transition:none;transform:none}}
