@@ -1,8 +1,15 @@
 {
   "source": "https://rss.blog.naver.com/gilbert61.xml",
-  "updatedAt": "2026-10-08T15:38:34+00:00",
+  "updatedAt": "2026-10-09T09:07:14+00:00",
   "checkedMonth": "2026-10",
   "posts": [
+    {
+      "id": "224436135023",
+      "title": "화성 병점동 기배동 방문요양비용 노인장기요양보험 등급 기준 쉽게 이해하기",
+      "url": "https://blog.naver.com/gilbert61/224436135023",
+      "date": "2026.10.09",
+      "image": "latest-224436135023.png"
+    },
     {
       "id": "224435535189",
       "title": "화성시 봉담 방문요양 다함재가복지센터 어르신 추석선물 정성껏 준비했습니다",
@@ -16,13 +23,6 @@
       "url": "https://blog.naver.com/gilbert61/224426821212",
       "date": "2026.09.30",
       "image": "latest-224426821212.png"
-    },
-    {
-      "id": "224420611957",
-      "title": "화성 기안동 방문요양서비스 재가요양복지센터 선택 전 확인할 사항",
-      "url": "https://blog.naver.com/gilbert61/224420611957",
-      "date": "2026.09.23",
-      "image": "latest-224420611957.png"
     }
   ]
 }
