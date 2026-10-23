@@ -1,8 +1,15 @@
 {
   "source": "https://rss.blog.naver.com/gilbert61.xml",
-  "updatedAt": "2026-10-09T09:07:14+00:00",
+  "updatedAt": "2026-10-23T04:52:41+00:00",
   "checkedMonth": "2026-10",
   "posts": [
+    {
+      "id": "224451235922",
+      "title": "화성 안녕동 기배동 수원 방문요양서비스 부모님 돌봄을 위한 재가요양복지센터 이용 방법",
+      "url": "https://blog.naver.com/gilbert61/224451235922",
+      "date": "2026.10.23",
+      "image": "latest-224451235922.png"
+    },
     {
       "id": "224436135023",
       "title": "화성 병점동 기배동 방문요양비용 노인장기요양보험 등급 기준 쉽게 이해하기",
@@ -16,13 +23,6 @@
       "url": "https://blog.naver.com/gilbert61/224435535189",
       "date": "2026.10.08",
       "image": "latest-224435535189.png"
-    },
-    {
-      "id": "224426821212",
-      "title": "수원 권선구·화성 기배동 방문요양비용과 노인장기요양보험제도 알아보기",
-      "url": "https://blog.naver.com/gilbert61/224426821212",
-      "date": "2026.09.30",
-      "image": "latest-224426821212.png"
     }
   ]
 }
