@@ -5,3 +5,9 @@ node_modules/
 *.tar.gz
 *.log
 __pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
