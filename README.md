@@ -1,10 +1,10 @@
 # 다함재가복지센터 웹사이트
 
-화성시 봉담읍에 위치하고 수원시·화성시에서 방문서비스를 제공하는 다함재가복지센터의 연두색 브랜드 홈페이지입니다. HTML, CSS, JavaScript만으로 동작합니다.
+화성시 봉담읍에 위치하고 수원시·화성시에서 방문서비스를 제공하는 다함재가복지센터의 홈페이지입니다. HTML, CSS, JavaScript으로 동작합니다.
 
 ## 실행
 
-프로젝트 루트에서 `python -m http.server 4173 --directory dist`를 실행한 뒤 http://localhost:4173 에 접속합니다. 별도 설치나 빌드가 필요 없습니다.
+프로젝트 루트에서 `python -m http.server 4173 --directory dist`를 실행한 뒤 http://localhost:4173 에 접속합니다. 
 
 ## 구성
 
